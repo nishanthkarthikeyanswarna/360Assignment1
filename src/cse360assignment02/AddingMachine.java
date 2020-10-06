@@ -36,5 +36,6 @@ public class AddingMachine {
     //clears
     public void clear() {
         total = 0;
+        str += " * 0";
     }
 }
